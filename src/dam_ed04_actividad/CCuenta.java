@@ -41,7 +41,7 @@ public class CCuenta {
     }
 /**
  * 
- * @param nom nombre asignado a la cuenta
+ * @param nom nombre asignado a la cuenta e
  */
     public void asignarNombre(String nom)
     {

@@ -25,7 +25,7 @@ public class Main {
 
     /**
      *
-     * @param cuenta1
+     * @param cuenta1 prueba a
      */
     public static void operativa_cuenta(CCuenta cuenta1 ) {
         try {
